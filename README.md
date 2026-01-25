@@ -15,6 +15,8 @@ TimePulse 是一个具有现代化 UI 和交互的计时器网页应用，支持
 ![image](https://raw.ravelloh.top/20250323/image.51ebd8a4jh.webp)
 ![image](https://raw.ravelloh.top/20250323/image.6wqw5umcp8.webp)
 ![image](https://raw.ravelloh.top/20250323/image.6f0zcpvm6r.webp)
+<img width="2492" height="1415" alt="image" src="https://github.com/user-attachments/assets/4b53171c-e8aa-4cec-ae39-e302a982242a" />
+
 
 ## 特点
 
@@ -27,6 +29,7 @@ TimePulse 是一个具有现代化 UI 和交互的计时器网页应用，支持
 - 支持PWA，可安装到主屏幕并离线使用
 - 国际化支持，提供中英双语
 - 支持倒计时通知提醒
+- 自定义背景
 
 ### 视觉和交互
 - 精美的玻璃态设计和流畅动效
